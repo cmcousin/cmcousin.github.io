@@ -3769,7 +3769,6 @@ input, select, textarea {
 			flex-wrap: wrap;
 			box-sizing: border-box;
 			align-items: stretch;
-			padding: 3em 0 1em 0 ;
 			background-color: transparent !important;
 			width: 100%;
 		}
@@ -3794,6 +3793,7 @@ input, select, textarea {
 			text-align: center;
 			list-style: none;
 			padding-top: 2rem;
+
 			width: 100%;
 		}
 	}
@@ -3819,6 +3819,7 @@ input, select, textarea {
 		list-style: none;
 		padding-top: 2rem;
 		width: 100%;
+		margin: 1em 1em 1em 1em;
 	}
 
 	.card .icon {
